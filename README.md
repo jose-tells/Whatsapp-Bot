@@ -9,4 +9,4 @@ Hi! Welcome to this *just for fun* Whatsapp Bot created with Venom _https://www.
 - Twitch: https://twitch.tv/jose_tells
 
 ## Contact
-Email: josemarquinez28@gmail.com
+- Email: josemarquinez28@gmail.com
